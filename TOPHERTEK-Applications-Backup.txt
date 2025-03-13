@@ -1,0 +1,122 @@
+--- Backup: Applications ---
+
+DisplayName                                                    DisplayVersion
+-----------                                                    --------------
+NVM for Windows 1.2.2                                          1.2.2
+7-Zip 24.09 (x64)                                              24.09
+Audacity 3.7.2                                                 3.7.2
+AutoHotkey                                                     2.0.19
+LM Studio 0.3.9                                                0.3.9
+AnythingLLM 1.7.2                                              1.7.2
+                                                               
+CPUID CPU-Z 2.14                                               2.14
+Docker Desktop                                                 4.38.0
+DVDStyler v3.2.1                                               
+Git                                                            2.47.1.2
+HexChat                                                        2.16.2
+HWiNFO® 64                                                     8.20
+Modrinth App                                                   0.9.3
+Mozilla Firefox (x64 en-US)                                    135.0.1
+Mozilla Maintenance Service                                    134.0.2
+                                                               
+Notepad++ (64-bit x64)                                         8.7.7
+OpenSCAD (remove only)                                         2021.01
+RustDesk                                                       1.3.7
+RetroArch                                                      
+Wallpaper Engine                                               
+Lossless Scaling                                               
+TreeSize Free V4.7.3 (64 bit)                                  4.7.3
+Unity 2022.3.56f1                                              2022.3.56f1
+Unity Hub 3.11.0                                               3.11.0
+VLC media player                                               3.0.21
+                                                               
+WinHTTrack Website Copier 3.49-2 (x64)                         3.49.2
+WinRAR 7.01 (64-bit)                                           7.01.0
+Google Chrome                                                  134.0.6998.88
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664  12.0.40664
+Oracle VirtualBox 7.1.6                                        7.1.6
+PowerToys (Preview)                                            0.87.1
+Python 3.12.8 Development Libraries (64-bit)                   3.12.8150.0
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219    10.0.40219
+GitHub CLI                                                     2.67.0
+Microsoft .NET Runtime - 7.0.20 (x64)                          56.80.15184
+MPC-HC 2.3.9 (64-bit)                                          2.3.9
+ENE_External_Device_HAL                                        1.0.12.7
+Python 3.12.8 Tcl/Tk Support (64-bit)                          3.12.8150.0
+Private Internet Access                                        3.6.1+08339
+vs_minshellx64msi                                              17.12.35410
+Verbatim_SureFireGaming_Product                                1.0.3.11
+ENE_EHD_M2_HAL                                                 1.0.14.0
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433    14.42.34433
+Logitech G HUB                                                 2025.2.687008
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664     12.0.40664
+AWS Command Line Interface v2                                  2.23.6.0
+Node.js                                                        20.18.3
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)               48.144.23186
+Microsoft .NET Host - 8.0.13 (x64)                             64.52.27977
+Microsoft Visual Studio Installer                              3.12.2320.19252
+Git Extensions 5.1.0.17965                                     5.1.0.17965
+Virtual Desktop Service                                        1.18.50
+Microsoft Windows Desktop Runtime - 7.0.20 (x64)               56.80.15245
+Python 3.12.8 Core Interpreter (64-bit)                        3.12.8150.0
+Clone Hero version v1.0.0.4080-final                           v1.0.0.4080-final
+GitButler                                                      0.14.7
+Windows PC Health Check                                        3.7.2204.15001
+Everything 1.4.1.1026 (x64)                                    1.4.1.1026
+Microsoft Windows Desktop Runtime - 8.0.13 (x64)               64.52.27986
+EFI Boot Editor                                                1.5.2.1734816501
+Windows Subsystem for Linux                                    2.3.26.0
+ENE_DRAM_RGB_AIO                                               1.0.13.0
+File Converter                                                 2.0.2
+Python 3.12.8 Test Suite (64-bit)                              3.12.8150.0
+ENE_MousePad_HAL                                               1.0.2.0
+ENE Video Capture Box HAL                                      1.0.5.15
+Python 3.12.8 Add to Path (64-bit)                             3.12.8150.0
+PuTTY release 0.82 (64-bit)                                    0.82.0.0
+Microsoft .NET Host FX Resolver - 6.0.36 (x64)                 48.144.23141
+Adobe Acrobat (64-bit)                                         24.005.20320
+Microsoft .NET Host FX Resolver - 7.0.20 (x64)                 56.80.15184
+NVIDIA Graphics Driver 572.42                                  572.42
+NVIDIA app 11.0.2.312                                          11.0.2.312
+NVIDIA MessageBus 3 for NvApp                                  3.13
+NVIDIA Backend                                                 11.0.2.312
+NvCpl                                                          1.0
+                                                               
+NVIDIA PhysX System Software 9.23.1019                         9.23.1019
+NVIDIA FrameView SDK 1.5.10819.35301613                        1.5.10819.35301613
+NVIDIA HD Audio Driver 1.4.3.2                                 1.4.3.2
+NVIDIA Install Application                                     2.1002.425.0
+NVIDIA Container                                               1.42
+NVIDIA AIUser Container                                        1.42
+NVIDIA LocalSystem Container                                   1.42
+NVIDIA Session Container                                       1.42
+NVIDIA User Container                                          1.42
+NVIDIA NvDLISR                                                 1.0
+NVIDIA Watchdog Plugin for NvContainer                         1.42
+NVIDIA Telemetry Client                                        19.4.19.0
+NVIDIA ShadowPlay 11.0.2.0                                     11.0.2.0
+NVIDIA USBC Driver 1.52.831.832                                1.52.831.832
+NVIDIA Virtual Audio 4.65.0.3                                  4.65.0.3
+Microsoft .NET Host FX Resolver - 8.0.13 (x64)                 64.52.27977
+EA app                                                         12.0.0.0
+Rust 1.84 (MSVC 64-bit)                                        1.84.0.0
+Microsoft .NET Runtime - 8.0.13 (x64)                          64.52.27977
+Microsoft .NET Runtime - 6.0.36 (x64)                          48.144.23141
+Oh My Posh                                                     24.19.0
+Paint.NET                                                      5.1.2
+ENE_X_AIC_HAL                                                  1.0.6.3
+PowerShell 7-x64                                               7.5.0.0
+Virtual Desktop Streamer                                       1.33.3
+Microsoft .NET Host - 6.0.36 (x64)                             48.144.23141
+Python 3.12.8 pip Bootstrap (64-bit)                           3.12.8150.0
+Blender                                                        4.3.2
+Python 3.12.8 Standard Library (64-bit)                        3.12.8150.0
+Python 3.12.8 Executables (64-bit)                             3.12.8150.0
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433 14.42.34433
+Lively Wallpaper version 2.1.0.8                               2.1.0.8
+gsudo v2.5.1                                                   2.5.1
+TeamViewer                                                     15.61.4.0
+Python 3.12.8 Documentation (64-bit)                           3.12.8150.0
+Microsoft .NET Host - 7.0.20 (x64)                             56.80.15184
+
+
