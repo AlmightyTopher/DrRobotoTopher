@@ -32,7 +32,7 @@ VLC media player                                               3.0.21
                                                                
 WinHTTrack Website Copier 3.49-2 (x64)                         3.49.2
 WinRAR 7.01 (64-bit)                                           7.01.0
-Google Chrome                                                  134.0.6998.88
+Google Chrome                                                  134.0.6998.89
 Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664  12.0.40664
 Oracle VirtualBox 7.1.6                                        7.1.6
 PowerToys (Preview)                                            0.87.1
